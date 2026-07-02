@@ -1,0 +1,97 @@
+{
+  "profile": {
+    "name": "Lahari Nanduru",
+    "title": "Data Analyst Intern",
+    "summary": "Lahari Nanduru is a detail-driven data analyst with experience in data visualization and team collaboration. She is skilled in programming languages such as C, C++, Python, and SQL. Lahari is currently pursuing her B.Tech in Computer Science and Engineering at SRM University AP.",
+    "email": "nandurulahari@gmail.com",
+    "phone": "+91-9492662929",
+    "location": "Guntur, India"
+  },
+  "experience": [
+    {
+      "company": "Bluestock Fintech",
+      "role": "Data Analyst Intern",
+      "duration": "2026-04-01 — Present",
+      "responsibilities": [
+        "Analyzed and cleaned datasets using tools like Excel/SQL to extract actionable insights for business decision-making. Built dashboards and reports to visualize trends, improving data-driven strategies and performance tracking. Collaborated with remote teams to process data, identify patterns, and support analytical projects."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech. Computer Science and Engineering",
+      "institution": "SRM University AP",
+      "year": "2024",
+      "highlights": []
+    }
+  ],
+  "projects": [
+    {
+      "title": "SkillXChange – Student Skill Exchange Platform",
+      "description": "Built a full-stack web platform enabling peer-to-peer skill exchange among students without monetary transactions. Developed using React, Tailwind CSS, Node.js, Express, and MongoDB Atlas. Implemented email-restricted authentication to ensure secure access for SRM AP students. Designed a skill-matching system connecting users based on teaching and learning interests. Created features like connection requests, real-time chat/call support, and campus navigation.",
+      "techStack": [
+        "React",
+        "Tailwind CSS",
+        "Node.js",
+        "Express",
+        "MongoDB Atlas"
+      ],
+      "icon": "💻"
+    },
+    {
+      "title": "VILLAGE GEODATA SaaS PLATFORM",
+      "description": "Developed a production-ready API platform providing structured access to 600K+ location records (villages to states). Designed a normalized PostgreSQL database (3NF) for efficient hierarchical data management and scalability. Implemented secure B2B access using API key authentication, JWT, and rate limiting. Built high-performance search and filtering APIs with Redis caching and optimized indexing. Created an admin dashboard for usage analytics and API monitoring, along with a demo client application.",
+      "techStack": [
+        "Node.js",
+        "Express.js",
+        "PostgreSQL",
+        "Prisma",
+        "React.js",
+        "Redis",
+        "Vercel"
+      ],
+      "icon": "💻"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "skills": [
+        "C",
+        "C++",
+        "Python",
+        "SQL",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React"
+      ]
+    },
+    {
+      "name": "Core Concepts",
+      "skills": [
+        "Data Structures",
+        "Algorithms",
+        "OOPS",
+        "Time and Space Complexity",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Computer software/frameworks",
+      "skills": [
+        "VS Code",
+        "Git",
+        "GitHub"
+      ]
+    },
+    {
+      "name": "Languages",
+      "skills": [
+        "English",
+        "Telugu"
+      ]
+    }
+  ],
+  "certifications": []
+}
