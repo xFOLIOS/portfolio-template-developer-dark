@@ -1262,7 +1262,7 @@ function ProjectsSection({ projects }: { projects: DeveloperDarkProject[] }) {
 								textTransform: "uppercase",
 							}}
 						>
-							04. Security Projects
+							04. Projects
 						</span>
 					</div>
 					<h2
@@ -1272,10 +1272,10 @@ function ProjectsSection({ projects }: { projects: DeveloperDarkProject[] }) {
 							color: "#e8eaf6",
 						}}
 					>
-						Cybersecurity Projects
+						Projects
 					</h2>
 					<p style={{ color: "#6a7590", marginTop: 8, fontSize: 14 }}>
-						Hands-on security tools, frameworks, and platforms.
+						A selection of projects showcasing technical skills and real-world development experience.
 					</p>
 				</div>
 				<div
@@ -1881,7 +1881,7 @@ function FooterSection({ name }: { name: string }) {
 export default function DeveloperDarkTemplate({
 	portfolioData,
 }: {
-	portfolioData?: DeveloperDarkPortfolioData;
+	portfolioData: DeveloperDarkPortfolioData;
 }) {
 	const d = portfolioData ?? DEFAULT_DATA;
 	const [activeSection, setActiveSection] = useState("hero");
